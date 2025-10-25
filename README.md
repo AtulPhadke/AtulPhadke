@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I’m Atul Phadke, a Computer Science and Behavioral Neuroscience student at Northeastern University. I build AI-driven biomedical software, full‑stack applications, and advanced analysis pipelines. I'm currently a 2nd year applying to co-ops for the January - June cycle. I'm also interested in summer internships.
+
+I’m excited about problems at the intersection of biotechnology and computer science and enjoy shipping reliable, scalable tools that accelerate research and discovery.
+
+My portfolio is at: [AtulPhadke.github.io/portfolio](AtulPhadke.github.io/portfolio)
+
+How to reach me:
+Emails --> atulphadke8@gmail.com, phadke.at@northeastern.edu
 <!--
 **AtulPhadke/AtulPhadke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
