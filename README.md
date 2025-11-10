@@ -4,7 +4,7 @@ I’m Atul Phadke, a Computer Science and Behavioral Neuroscience student at Nor
 
 I’m excited about problems at the intersection of biotechnology and computer science and enjoy shipping reliable, scalable tools that accelerate research and discovery.
 
-My portfolio is at: [atulphadke.github.io/portfolio](https://www.atulphadke.github.io/portfolio)
+My portfolio is at: [atulphadke.github.io/portfolio](https://atulphadke.github.io/portfolio)
 
 How to reach me:
 Emails --> atulphadke8@gmail.com, phadke.at@northeastern.edu
